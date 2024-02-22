@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="696320ad-fbd2-4e1f-ad9d-7e23dfec568b" name="Changes" comment="initial config commit">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/impl/UserDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/interfaces/EntityDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/interfaces/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/DbConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/departaments/Departament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/departaments/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/employees/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/employees/NormalEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/employees/SuperiorEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/user/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/user/UserUsernameDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/DefaultMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/UserOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/DbConnectionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/UserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/PrinterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/ReaderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/RunnerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RayanArgolo03"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="21eee3e1-6576-4232-ac61-3ba61dc3234e" />
+        <option name="url" value="https://github.com/RayanArgolo03/crud-jdbc-mysql-01.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cg5Mohol2tZgsgGQuNdxDU7eiu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Acer/IdeaProjects/Study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Acer/IdeaProjects/Study/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\IdeaProjects\Study" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="app.Application" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="696320ad-fbd2-4e1f-ad9d-7e23dfec568b" name="Changes" comment="" />
+      <created>1708520337788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708520337788</updated>
+      <workItem from="1708520338784" duration="301000" />
+      <workItem from="1708520656032" duration="1016000" />
+      <workItem from="1708549544520" duration="896000" />
+      <workItem from="1708596474804" duration="82000" />
+      <workItem from="1708599888674" duration="40000" />
+      <workItem from="1708600481288" duration="3579000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial config commit">
+      <option name="closed" value="true" />
+      <created>1708601358263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708601358263</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial config commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial config commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Study$Application.ic" NAME="Application Coverage Results" MODIFIED="1708549978774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>app.*</FILTER>
+    </SUITE>
+  </component>
+</project>
